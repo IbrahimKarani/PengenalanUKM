@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "292724437392",
+    "project_id": "pengenalanukm",
+    "storage_bucket": "pengenalanukm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292724437392:android:d5f7a59f902f9088d84315",
+        "android_client_info": {
+          "package_name": "com.example.pengenalanukm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292724437392-5q1mq3mpp6oeisq9e6hcoi5er4ornugc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pengenalanukm",
+            "certificate_hash": "8e91128ac10ed7e3102e6d2863e9a1a05711b47a"
+          }
+        },
+        {
+          "client_id": "292724437392-8aavd9vfnu360l41r8k8e3tiuli40fgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRa2ZMTqaZAhiUZTc5MSqckwfoiAZvEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292724437392-8aavd9vfnu360l41r8k8e3tiuli40fgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

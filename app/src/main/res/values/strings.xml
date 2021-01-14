@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PengenalanUKM</string>
+    <string name="nama_ukm" />
+    <string name="name_faculty" />
+    <string name="name_description" />
+    <string name="short_description" />
+    <string name="harga">Jadwal</string>
+    <string name="instagram">Instagram</string>
+    <string name="https_www_google_com">www.google.com</string>
+    <string name="menu_utama">Menu Utama</string>
+    <string name="profil_perancang">Profil Perancang</string>
+    <string name="Nama">Nama : Ibrahim</string>
+</resources>
